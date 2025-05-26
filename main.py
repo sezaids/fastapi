@@ -13,14 +13,14 @@ def data2():
             "age" : 23,
             "class" : "MS AI"
         },
-        {
+            {
             "name" : "adil2",
             "age" : 23,
             "class" : "MS AI"
         },
-        {
+            {
             "name" : "adil1",
             "age" : 231,
             "class" : "MS AI"
-        }
+        },
     ]

@@ -1,0 +1,7 @@
+{
+  "P001": {"name": "Fatima", "city": "Gojra", "age": 23, "gender": "female", "height": 1.55, "weight": 60, "bmi": 24.97, "verdict": "Normal"},
+  "P002": {"name": "Abid Ali", "city": "Lahore", "age": 25, "gender": "male", "height": 1.65, "weight": 75, "bmi": 27.55, "verdict": "Overweight"},
+  "P003": {"name": "Muhammad", "city": "London", "age": 40, "gender": "male", "height": 1.75, "weight": 59, "bmi": 19.27, "verdict": "Normal"},
+  "P004": {"name": "William Brock", "city": "California", "age": 18, "gender": "male", "height": 1.55, "weight": 85, "bmi": 35.38, "verdict": "Obese"},
+  "P005": {"name": "Priya Das", "city": "Kolkata", "age": 28, "gender": "female", "height": 1.50, "weight": 45, "bmi": 20.00, "verdict": "Normal"}
+}
